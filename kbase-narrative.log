@@ -1,0 +1,29 @@
+INFO 2019-03-01 18:44:01,147 biokbase.narrative session_start;user=nate_physics user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36"
+INFO 2019-03-01 18:44:01,148 biokbase.narrative reading narrative;content=False include_meta=False ref=41193/1
+INFO 2019-03-01 18:44:01,149 biokbase.narrative read_narrative testing existence;ref=41193/1
+INFO 2019-03-01 18:44:01,179 biokbase.narrative reading narrative;content=False include_meta=True ref=41193/1
+INFO 2019-03-01 18:44:01,179 biokbase.narrative read_narrative testing existence;ref=41193/1
+INFO 2019-03-01 18:44:06,427 biokbase.narrative session_start;user=nate_physics user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36"
+INFO 2019-03-01 18:44:07,211 biokbase.narrative reading narrative;content=False include_meta=False ref=41193/1
+INFO 2019-03-01 18:44:07,212 biokbase.narrative read_narrative testing existence;ref=41193/1
+INFO 2019-03-01 18:44:07,242 biokbase.narrative reading narrative;content=1 include_meta=True ref=41193/1
+INFO 2019-03-01 18:44:28,400 biokbase.narrative reading narrative;content=False include_meta=False ref=41193/1
+INFO 2019-03-01 18:44:28,401 biokbase.narrative read_narrative testing existence;ref=41193/1
+INFO 2019-03-01 18:44:28,434 biokbase.narrative reading narrative;content=False include_meta=True ref=41193/1
+INFO 2019-03-01 18:44:28,434 biokbase.narrative read_narrative testing existence;ref=41193/1
+INFO 2019-03-01 18:44:29,755 biokbase.narrative session_start;user=nate_physics user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36"
+INFO 2019-03-01 18:44:29,884 biokbase.narrative reading narrative;content=False include_meta=False ref=41193/1
+INFO 2019-03-01 18:44:29,884 biokbase.narrative read_narrative testing existence;ref=41193/1
+INFO 2019-03-01 18:44:29,915 biokbase.narrative reading narrative;content=1 include_meta=True ref=41193/1
+INFO 2019-03-01 18:49:49,401 biokbase.narrative list_narratives start;ws_id=None
+INFO 2019-03-01 18:49:56,370 biokbase.narrative session_start;user=nate_physics user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36"
+INFO 2019-03-01 18:50:27,014 biokbase.narrative reading narrative;content=False include_meta=False ref=41193/1
+INFO 2019-03-01 18:50:27,015 biokbase.narrative read_narrative testing existence;ref=41193/1
+INFO 2019-03-01 18:50:27,053 biokbase.narrative reading narrative;content=False include_meta=True ref=41193/1
+INFO 2019-03-01 18:50:27,053 biokbase.narrative read_narrative testing existence;ref=41193/1
+INFO 2019-03-01 18:50:28,376 biokbase.narrative session_start;user=nate_physics user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36"
+INFO 2019-03-01 18:50:28,502 biokbase.narrative reading narrative;content=False include_meta=False ref=41193/1
+INFO 2019-03-01 18:50:28,502 biokbase.narrative read_narrative testing existence;ref=41193/1
+INFO 2019-03-01 18:50:28,531 biokbase.narrative reading narrative;content=1 include_meta=True ref=41193/1
+INFO 2019-03-01 19:04:22,874 biokbase.narrative list_narratives start;ws_id=None
+INFO 2019-03-01 19:05:07,880 biokbase.narrative list_narratives start;ws_id=None
